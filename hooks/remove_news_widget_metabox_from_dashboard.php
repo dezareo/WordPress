@@ -1,6 +1,6 @@
 <?php
 
-//hoo who remove new widget from WP dashboard
+//hook to remove news widget from WP dashboard
 
 function remove_dashboard_widget() {
       remove_meta_box( 'dashboard_primary', 'dashboard', 'post_container_1');
