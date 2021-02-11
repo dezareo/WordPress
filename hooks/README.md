@@ -1,1 +1,1 @@
-My list of WordPress hooks for learning purporse..
+My list of WordPress hooks
